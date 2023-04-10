@@ -4,3 +4,5 @@ repositorio ativdade 1
 * Item 1
 * Item 2
 * Item 3
+codigo em java script ´console.log("hello word")`.
+
